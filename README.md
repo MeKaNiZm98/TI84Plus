@@ -84,7 +84,7 @@ Download all or just one program to your harddrive.
 ## Prerequisites
 
   1. A Ti84 Plus or comparable calculator with the software to transfer files to your Ti: https://education.ti.com/de/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware
-<br>
+
   2. Or the simulator from: 
 https://education.ti.com/en/software/details/en/ffea90ee7f9b4c24a6ec427622c77d09/sda-ti-smartview-ti-84-plus 
 
