@@ -49,8 +49,7 @@
 
 Little Programs in Basic for the Calculator Ti84Plus written a long time ago.
 
-<img src="images/Clock1.jpg" width="150" height="150">
-<img src="images/Clock2.jpg" width="150" height="150">
+<img src="images/Clock1.jpg" width="150" height="150"> <img src="images/Clock2.jpg" width="150" height="150">
 <img src="images/DelVar1.jpg" width="150" height="150">
 <img src="images/DelVar1.1.jpg" width="150" height="150">
 <img src="images/Noten1.1.jpg" width="150" height="150">
