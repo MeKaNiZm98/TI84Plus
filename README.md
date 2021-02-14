@@ -49,7 +49,33 @@
 
 Little Programs in Basic for the Calculator Ti84Plus written a long time ago.
 
-<img src="images/clock1.jpg" width="150" height="150">
+<img src="images/Clock1.jpg" width="150" height="150">
+<img src="images/Clock2.jpg" width="150" height="150">
+<img src="images/DelVar1.jpg" width="150" height="150">
+<img src="images/DelVar1.1.jpg" width="150" height="150">
+<img src="images/Noten1.1.jpg" width="150" height="150">
+<img src="images/Noten1.2.jpg" width="150" height="150">
+<img src="images/Noten1.3.jpg" width="150" height="150">
+<img src="images/Noten1.4.jpg" width="150" height="150">
+<img src="images/Noten1.5.jpg" width="150" height="150">
+<img src="images/Noten1.6.jpg" width="150" height="150">
+<img src="images/Noten1.7.jpg" width="150" height="150">
+<img src="images/Noten1.8.jpg" width="150" height="150">
+<img src="images/Noten1.9.jpg" width="150" height="150">
+<img src="images/Noten1.10.jpg" width="150" height="150">
+<img src="images/Noten1.11.jpg" width="150" height="150">
+<img src="images/Noten1.12.jpg" width="150" height="150">
+<img src="images/Runden1.jpg" width="150" height="150">
+<img src="images/Runden1.1.jpg" width="150" height="150">
+<img src="images/Runden1.2.jpg" width="150" height="150">
+<img src="images/Virus1.jpg" width="150" height="150">
+<img src="images/Virus1.1.jpg" width="150" height="150">
+<img src="images/Zeit1.jpg" width="150" height="150">
+<img src="images/Zeit1.1.jpg" width="150" height="150">
+<img src="images/Zeit1.2.jpg" width="150" height="150">
+<img src="images/Zeit1.3.jpg" width="150" height="150">
+<img src="images/Zeit1.4.jpg" width="150" height="150">
+<img src="images/Zeit1.5.jpg" width="150" height="150">
 
 <!-- GETTING STARTED -->
 ## Getting Started
