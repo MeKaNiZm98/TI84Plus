@@ -68,6 +68,8 @@ https://education.ti.com/en/software/details/en/ffea90ee7f9b4c24a6ec427622c77d09
   1. Install the Simulator or the transfer Software
   2. Transfer files to Calculator
   3. If files are Archived, use this tutorial to unarchive: https://www.youtube.com/watch?v=plpBT2WfryU
+  
+  <img src="images/Unarchive.png" alt="Logo" width="150" height="150"> <img src="images/Unarchive2.png" alt="Logo" width="150" height="150">
 
 
 <!-- CONTACT -->
