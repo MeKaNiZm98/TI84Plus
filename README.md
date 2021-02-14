@@ -91,9 +91,9 @@ https://education.ti.com/en/software/details/en/ffea90ee7f9b4c24a6ec427622c77d09
 
 ## Installation
 
-1. Install the Simulator or the transfer Software
-2. Transfer files to Calculator
-3. If files are Archived, use this tutorial to unarchive: https://www.youtube.com/watch?v=plpBT2WfryU
+  1. Install the Simulator or the transfer Software
+  2. Transfer files to Calculator
+  3. If files are Archived, use this tutorial to unarchive: https://www.youtube.com/watch?v=plpBT2WfryU
 
 
 <!-- CONTACT -->
