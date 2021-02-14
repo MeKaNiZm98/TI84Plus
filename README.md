@@ -49,7 +49,7 @@
 
 Little Programs in Basic for the Calculator Ti84Plus written a long time ago.
 
-<<img src="images/clock1.jpg" alt="Logo" width="150" height="150">
+<img src="images/clock1.jpg" width="150" height="150">
 
 <!-- GETTING STARTED -->
 ## Getting Started
