@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MeKaNiZm98/TI84Plus">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">TI84Plus</h3>
