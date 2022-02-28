@@ -75,6 +75,4 @@ https://education.ti.com/en/software/details/en/ffea90ee7f9b4c24a6ec427622c77d09
 <!-- CONTACT -->
 ## Contact
 
-Email: justin@justin-hansemann.ml
-
 Project Link: [https://github.com/MeKaNiZm98/TI84Plus](https://github.com/MeKaNiZm98/TI84Plus)
